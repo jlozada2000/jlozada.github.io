@@ -1,0 +1,18 @@
+TITLE -- JLozada
+
+INTRO -- JULIAN LOZADA
+	Software engineer (sometimes a designer)
+
+About -- Focused on building unique and interactive software.  I have a passion for front-end development for websites
+	and UI/UX coding.  I am a problem solver with high attention to detail and I am always up for any challenge that
+	comes my way.  I'm well organized and optimistic about any project I'm currently working on.
+
+	I love everything about coffee, stars, and marine life.
+
+	Interested and motivated to tackle any project with other optimistic people.
+
+Projects -- (N/A)
+
+Resume -- (work experience/education/grades)
+
+Contact -- (social media/phone number/email)
